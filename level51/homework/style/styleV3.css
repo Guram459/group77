@@ -1,0 +1,33 @@
+body{
+    justify-self: center;
+}
+
+button{
+    border: none;
+    background-color: rgba(202, 73, 73, 0.59);
+    border-radius: 15px;
+    transform: 0.3s;
+    cursor: pointer;
+}
+
+h1{
+    margin-right: 25px;
+}
+
+.b-1{
+    width: 150px;
+    height: 50px;
+    transform: 0.3;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
+
+button:link{
+    background-color: red;
+}
+
+button:visited{
+    background-color: aquamarine;
+}

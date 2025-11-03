@@ -1,0 +1,18 @@
+body{
+    justify-self: center;
+    background-color: black;
+}
+
+
+button{
+    margin-top: 145%;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    font-size: xx-large;
+}
+
+button:hover{
+    border: 2px;
+    transform: scale(1.05);
+}
