@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+table {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 15%;
+    border-style: none;
+    border-collapse: collapse;
+    color: rgb(255, 255, 255);
+}
+
+
+table thead tr:nth-child(1) {
+    background: #8a53bd;
+background: linear-gradient(153deg,rgba(138, 83, 189, 1) 55%, rgba(190, 145, 235, 1) 79%, rgba(180, 131, 230, 1) 100%);
+}
+
+table tbody {
+    background: #5353bd;
+background: linear-gradient(153deg,rgba(83, 83, 189, 1) 41%, rgba(190, 145, 235, 1) 73%, rgba(180, 131, 230, 1) 100%);
+}
+
+
+table tbody tr:hover {
+    background-color: rgb(157, 87, 246);
+}

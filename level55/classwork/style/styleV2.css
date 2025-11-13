@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: aqua;
+    justify-self: center;
+}
+
+.container{
+    height: 55vh;
+    width: 40vh;
+    background-color: rgba(249, 249, 249, 0.877);
+    margin-top: 50%;
+}
+
+p{
+    margin-top: 10px;
+    margin-right: 60px;
+}
+
+h1{
+    font-size: 260%;
+    margin-right: 100px;
+    color: orange;
+}
+
+.input-1{
+    margin-top: 10px;
+    width: 360px;
+    height: 40px;
+}
+
+textarea{
+    width: 360px;
+    height: 100px;
+}
+
+button{
+    width: 360px;
+    height: 35px;
+    background-color: rgb(2, 205, 254);
+    border: none;
+}

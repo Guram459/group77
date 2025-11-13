@@ -1,0 +1,45 @@
+body{
+    display: block;
+    flex-direction: column;
+}
+
+
+.ul-1{
+    list-style-type: circle;
+}
+
+.ul-2{
+    list-style-type: decimal;
+}
+
+.ul-3{
+    list-style-type: decimal-leading-zero;
+}
+
+.ul-4{
+    list-style-type: lower-alpha;
+}
+
+.ul-5{
+    list-style-type: lower-greek;
+}
+
+.ul-6{
+    list-style-type: lower-latin;
+}
+
+.ul-7{
+    list-style-type: georgian;
+}
+
+.ul-8{
+    list-style-type: lower-roman;
+}
+
+.ul-8{
+    list-style-type: square;
+}
+
+.ul-8{
+    list-style-type: none;
+}
