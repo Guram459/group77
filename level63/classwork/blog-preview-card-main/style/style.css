@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(238, 202, 76);
+}
+
+.main-container{
+    border-radius: 15px;
+    width: 390px;
+    height: 500px;
+    margin-top: 10%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 50px 1px inset;;
+}
+
+.big-poto{
+    display: flex;
+    justify-content: center;
+}
+
+.p-1{
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(238, 202, 76);
+    width: 70px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.p-2{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.p-3{
+    margin-left: 20px;
+    width: 290px;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.p-4{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.first-h1{
+    font-size: 23px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+svg{
+    width: 700px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+.img-container{
+    display: flex;
+}
+
+.img-2{
+    margin-left: 20px;
+    width: 50px;
+    margin-top: 10px;
+    font-weight: 500px;
+}

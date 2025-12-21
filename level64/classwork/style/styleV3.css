@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+    display: flex;
+}
+
+.div-container{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+}

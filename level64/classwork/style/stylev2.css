@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+    display: flex;
+}
+
+.div-block{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    top: 230px;
+    right: 140px;
+}

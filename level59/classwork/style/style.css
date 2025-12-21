@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: rgb(250, 122, 124);
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.gallery-container {
+    width: 600px;
+    background: #ff7f7f;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-items: center;
+}
+
+.box{
+    text-align: center;
+    width: 120px;
+    height: 80px;
+    background-color: rgb(238, 238, 238);
+}

@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+    display: flex;
+}
+
+.div-container{
+    background-image: url(https://cdn.discordapp.com/attachments/1422634633471721585/1445838403345190952/Screenshot_2025-12-03_214121.png?ex=6931cd71&is=69307bf1&hm=2b096d7e36ca06126a0d0705e906e97375e7ee42c725a26fc80c7f3dd42c113e&);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+.div-box{
+    margin: 10px;
+    margin-top: 15%;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.div-box:hover{
+    background-color: blueviolet;
+    transform: skew(10deg);
+}

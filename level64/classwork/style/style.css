@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+    display: flex;
+}
+
+.div-container{
+    position: relative;
+    display: flex;
+    gap: 15px;
+    top: 100px;
+    left: 100px;
+}
+
+.div{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    
+}
